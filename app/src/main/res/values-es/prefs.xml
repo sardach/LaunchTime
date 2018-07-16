@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-   <!--Este texto era automáticamente la máquina tradujo. Si ves cualesquier equivocaciones complacen corregirles!-->
-
-    <!-- Traduce sólo las "_entradas" de cadenas -->
-
 
     <string-array name="pref_autohide_cat_strings">
         <item>Inmediatamente</item>
@@ -21,14 +17,14 @@
     </string-array>
 
     <string-array name="pref_return_home_strings">
-        <item>Inmediatamente</item>
-        <item>Después de 30 segundos</item>
-        <item>Después de 1 minuto</item>
-        <item>Después de 5 minutos</item>
-        <item>Después de 30 minutos</item>
-        <item>Después de 1 hora</item>
-        <item>Después de 1 día</item>
-        <item>Nunca</item>
+        <item>inmediatamente</item>
+        <item>después de 30 segundos</item>
+        <item>después de 1 minuto</item>
+        <item>después de 5 minutos</item>
+        <item>después de 30 minutos</item>
+        <item>después de 1 hora</item>
+        <item>después de 1 día</item>
+        <item>nunca</item>
     </string-array>
 
 
@@ -36,9 +32,9 @@
 
     <string-array name="pref_orientation_strings">
         <item>Sistema</item>
-        <item>Rotate Cuando necesitado</item>
-        <item>Retrato de fuerza</item>
-        <item>Paisaje de fuerza</item>
+        <item>Rotate cuando se requiera</item>
+        <item>Forzar modo vertical</item>
+        <item>Forzar modo horizontal</item>
     </string-array>
 
 
@@ -48,15 +44,15 @@
         <item>Pequeño</item>
         <item>Medio</item>
         <item>Grande</item>
-        <item>X-Grande</item>
+        <item>Extra Grande</item>
     </string-array>
 
     
     
 
     <string-array name="pref_cat_location_strings">
-        <item>Correcto</item>
-        <item>A la izquierda</item>
+        <item>Derecha</item>
+        <item>Izquierda</item>
     </string-array>
 
     
